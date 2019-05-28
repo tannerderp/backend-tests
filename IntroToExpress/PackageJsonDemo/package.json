@@ -1,0 +1,14 @@
+{
+  "name": "packagejsondemo",
+  "version": "1.0.0",
+  "description": "the epic demo of epicness",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tannerderp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
